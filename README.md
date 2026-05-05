@@ -3,7 +3,7 @@
 #### I am Devops engineering learner.
 
 
-I am Devops engineering learner . Also I am a linux administrator/system engineer/NOC engineer/IT Officer.
+I am Devops engineering learner . Also I am a linux administrator/system engineer/NOC engineer/IT Officer/Data analyst.
 
 Skills: ✔Linux
         ✔Windows server
