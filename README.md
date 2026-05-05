@@ -25,15 +25,26 @@ Skills: ✔Linux
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anim-lindevs)](https://github.com/ryo-ma/github-profile-trophy)
+ 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anim-lindevs)](https://github.com/anuraghazra/github-readme-stats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=anim-lindevs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=anim-lindevs&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=anim-lindevs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anim-lindevs&show_icons=true&count_private=true)  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=anim-lindevs&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+[![](https://komarev.com/ghpvc/?username=anim-lindevs&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/anim-lindevs/contributions?format=svg&private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/anim-lindevs)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=anim-lindevs)  
 
 
